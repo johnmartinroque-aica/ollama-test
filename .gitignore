@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment / secrets
+.env
+
+# Editor / tool folders
+.vscode/
+.idea/
+.qodo/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kept local only
+pronunciation_data.py
+pronunciation_kids.py
