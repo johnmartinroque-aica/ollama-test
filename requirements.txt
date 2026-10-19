@@ -1,0 +1,5 @@
+﻿numpy
+ollama
+sounddevice
+faster-whisper
+pronouncing
